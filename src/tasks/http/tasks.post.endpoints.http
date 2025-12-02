@@ -3,5 +3,6 @@ Content-Type: application/json
 
 {
   "title": "Implement global validation pipe",
-  "status": "test"
+  "description": "Add a global validation pipe to the NestJS application to handle DTO validations.",
+  "status": "pending"
 }
